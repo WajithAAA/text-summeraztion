@@ -18,7 +18,7 @@ list_of_files = [
     f"src/{project_name}/config/configuration.py",
     f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/constants/__init__.py",
-    "config/cofig.yaml",
+    "config/config.yaml",
     "developer_guide/developer_guide.md",
     "params.yaml",
     "app.py",
@@ -26,7 +26,7 @@ list_of_files = [
     "Dockeerfile",
     "setup.py",
     "requirements.txt",
-    "research/trail.ipynb",
+    "research/trails.ipynb",
     "developer_guide/developer_guide.md"
 
 ]

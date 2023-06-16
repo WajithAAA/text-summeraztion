@@ -1,5 +1,5 @@
 
-# End-to-end ml projects steps
+# End-to-end NLP projects steps
 
 - create local project directory
 - open anaconda prompt and type `code .` to open the vscode project
@@ -31,9 +31,6 @@
 - create components and pipelines directory in src directory
 - update logger and exception handler files
 
-
-
-
 ## Docker
 - important image commands
   - `FROM python:3.8`
@@ -57,11 +54,3 @@
 - rename `docker tag oldname newname `
 - push `docker push (dockerhub acc_name\app_name):latest`
 
-
-## following steps for end to end project
-
- - create git repository and clone it to the local machine
- - open IDE `code` for vs code
- - create venv
- - create folder structure `template.py`
- - 
